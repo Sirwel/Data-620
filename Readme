@@ -1,0 +1,14 @@
+# IS 620 Web Analytics
+
+This repository contains code, assignments, and projects for **IS 620 Web Analytics**. The course explores methods for analyzing web and social data, applying text mining, network analysis, and digital measurement techniques to better understand online behavior.  
+
+## 📖 Course Description
+Organizations increasingly rely on web and mobile analytics to understand users, improve services, and drive marketing strategies. This course examines how to collect, analyze, and interpret digital data from websites, search engines, and social networks. Students gain practical experience with tools and methods such as natural language processing, text mining, and social network analysis while considering ethical and privacy implications.  
+
+Key areas covered include:
+- Website traffic analysis (clickstreams, referrals, keywords, page views, drop rates)  
+- Social network analysis (centrality, clustering, network roles and structures)  
+- Text mining and natural language processing (word association, topic mining, opinion and sentiment analysis, text-based prediction)  
+- Search engine algorithms and SEO fundamentals  
+- Application of social science concepts such as homophily, social capital, trust, and motivations  
+- Ethical and social responsibility in web analytics  
